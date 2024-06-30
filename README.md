@@ -3,7 +3,9 @@ This is a basic NestJS app with bare minimum setup for:
 - Security
 - Auth0 and JWT gating
 
-It is meant to be cloned to expedite projects
+It is meant to be cloned to expedite projects.  In particular, it is meant to be paired with the front end package found here:
+
+https://github.com/arbennet/react-starter-with-auth
 
 # .env
 PORT=
