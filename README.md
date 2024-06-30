@@ -9,7 +9,6 @@ https://github.com/arbennet/react-starter-with-auth
 
 # .env
 PORT=
-# no trailing slashes on urls
 ISSUER_BASE_URL=
 AUDIENCE=
 CLIENT_ORIGIN_URL=
